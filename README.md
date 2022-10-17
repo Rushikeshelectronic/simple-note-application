@@ -14,6 +14,7 @@ In this project, I use some techniques at entry level in Android application dev
   <li>Shared prereferences</li>
   <li>Filter in ListView</li>
   <li>Context menu</li>
+   <li>Android Basic</li>
 </ul>
 
 # How to build:
